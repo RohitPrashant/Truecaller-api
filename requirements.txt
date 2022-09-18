@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask_login
+werkzeug
+pandas
+npm
+virtualenv
+truecallerjs npm download on terminal / command prompt
